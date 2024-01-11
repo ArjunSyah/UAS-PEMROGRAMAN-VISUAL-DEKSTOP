@@ -1,14 +1,16 @@
-#UAS-PEMROGRAMAN-VISUAL-DEKSTOP
+# UAS-PEMROGRAMAN-VISUAL-DEKSTOP
+
 **Nama   : Arjun Syah** <br/>
 **Nim   : 312110102** <br/>
 **Kelas : TI.21.A3** <br/>
-##APLIKASI BARANG
-##Database yang digunakan
+
+## APLIKASI BARANG
+## Database yang digunakan
 ![ArjunSyah](./img/kategoribarang.png)
 ![ArjunSyah](./img/hargabarang.png)
 ![ArjunSyah](./img/databarang.png)
 ![ArjunSyah](./img/Transaksi.png)
-#Pembahasan
+# Pembahasan
 Aplikasi ini adalah aplikasi sederhana yang memungkinkan pengguna untuk melakukan manajemen data barang dan transaksi penjualan. Dibuat untuk membantu pengguna dalam melakukan operasi dasar seperti login, manajemen data master, dan pembuatan laporan.
 
 ## Fitur-Fitur Utama
