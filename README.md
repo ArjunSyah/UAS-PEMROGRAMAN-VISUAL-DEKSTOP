@@ -61,3 +61,5 @@ Jika Anda ingin berkontribusi pada pengembangan aplikasi ini, silakan ikuti lang
 3. Lakukan perubahan dan commit (`git commit -am 'Menambahkan fitur-baru'`).
 4. Push ke branch (`git push origin fitur-baru`).
 5. Buat pull request.
+
+https://youtu.be/3gbFr_kD_Q0?si=rZ3dljAkUCg-9QEy
